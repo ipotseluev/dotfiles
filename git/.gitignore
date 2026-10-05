@@ -1,0 +1,10 @@
+.python-version
+.DS_Store
+.vscode/tasks.json
+*.pyc
+*.tar.gz
+del
+.vscode
+claude_context
+.agents
+.claude
